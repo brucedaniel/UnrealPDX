@@ -1,0 +1,3 @@
+[submodule "UnrealPDX/Plugins/StreetMap"]
+	path = UnrealPDX/Plugins/StreetMap
+	url = https://github.com/brucedaniel/StreetMap.git
